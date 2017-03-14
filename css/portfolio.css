@@ -1,0 +1,72 @@
+html, body {
+    font-family: 'Rubik', sans-serif;
+}
+
+body {
+    background: #fff;
+}
+
+#about {
+    margin-top: 50px;
+    padding-top:70px;
+}
+
+#gallery {
+    padding-top: 50px;
+}
+
+.color-main {
+    background: #303f9f;
+    color: #fff;
+}
+
+.color-darker {
+    background: #1a237e;
+    color: #fff;
+}
+
+.color-alert-info {
+    background: #e8eaf6;
+    color: #7986cb;
+    border: 1px solid #c5cae9;
+}
+
+.text-color-main {
+    color: #303f9f;
+}
+
+.project-container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#skills {
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+/* Github icon */
+.connect-group {
+    font-size: 24px;
+    line-height: 50px;
+    color: #fff;
+}
+
+.connect-link,
+.connect-link:hover,
+.connect-icon,
+.connect-icon:hover {
+    color: #fff;
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+.connect {
+    margin-top: 50px;
+}
+
+.footer {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
